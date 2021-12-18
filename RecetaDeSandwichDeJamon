@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primer sandwich</title>
+</head>
+<body style="background-color:rgb(236, 248, 252)";>
+    <h1 style="text-align:center">Receta para un chánguich de jamón</h1>
+    <p style="text-align:left; color: rgb(240, 153, 39)">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam quisquam, neque quae aut impedit corporis quas debitis nesciunt dicta vitae unde necessitatibus ratione, veritatis, voluptates excepturi distinctio adipisci assumenda pariatur.</p>
+
+    <p style="text-align:right">Perdón, yo también quería invocar al diablo.</p>
+
+    <p style="text-align:justify">Si eres foráneo y nunca haz cocinado en tu vida, te presento al que será tu mejor aliado junto con el atún y la sopa maruchan. Un sandwich es fácil y rápido de cocinar y posiblemente sea lo más nutritivo que puedas comer.</p>
+    
+    <h4>Ingredientes:</h4>
+    <ul>
+        <li>Pan blanco bimbo.</li>
+        <li>Jamón.</li>
+        <li>Queso.</li>
+        <li>Jitomate no, porque no me gusta.</li>
+        <li>Lechuga</li>
+        <li>Chile tampoco, porque soy llorón y pica.</li>
+        <li>Tocino.</li>
+        <li>Crema.</li>
+    </ul>
+
+    <h4>Pasos:</h4>
+    <ol>
+        <li>Pones dos rebanadas de pan.</li>
+        <li>Untas crema sobre ambas rebanadas de pan.</li>
+        <li>Colocas el jamón, queso, tocina, lechuga y siquieres chile y jitomate (yo no, porque ya dije que no me gusta. No los pongas, no arruines tu changuich).</li>
+        <li>Metes el sandwich en una sandwichera para que se dore y el queso se derrita.</li>
+        <li>Y ahora, ¡a comer!</li>
+    </ol>
+    
+    <div align="center">
+    <img src="./assets/images/club_sandwich.jpg" width="200" height="230">
+    <p><em>¿Se te antojaron?</em></p>
+    </div>
+
+    <br><br> <!--No me sirvió el trucazo de poner *2 jeje -->
+    
+    <p><b>Protip:</b> No sigas esta receta. Yo soy muy peculiar a la hora de preparar comida.</p>
+    
+    <p><blockquote>Da <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">click aquí</a> y podrás ver una receta de cocina mucho mejor y que sí se te va a antojar. No como lo que sugiero que prepares.</blockquote></p>
+
+    <div align="center">
+    <img src="./assets/images/4657889709_2a89db0fca_b.jpg" width="300" height="150">
+    <p><em>Tu, como el Chicharito, quédate en la banca y haz sandwich mientras te imaginas cosas perronas.</em></p>
+    </div>
+
+</body>
+</html>
